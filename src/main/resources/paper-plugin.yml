@@ -1,0 +1,4 @@
+name: GalaxyLifesteal
+version: '1.0.0'
+main: xyz.lncvrt.galaxylifesteal.GalaxyLifesteal
+api-version: '1.21'
